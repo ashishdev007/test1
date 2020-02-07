@@ -10,7 +10,7 @@ public class Test{
    }
    
    public static float divider(int no1, int no2){
-      return no1/no2;
+      return no1/(float) no2;
    }
 
 }
